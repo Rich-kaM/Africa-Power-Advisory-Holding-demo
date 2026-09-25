@@ -1,0 +1,63 @@
+{
+  "brand": "Africa Power Advisory Holding",
+  "legal_form": "SARL",
+  "positioning": "Strategic Energy Advisory and Power Solutions for Africa.",
+  "supporting": "Helping utilities, governments, industries, investors and energy developers make better energy decisions, optimize power infrastructure and develop sustainable energy projects.",
+  "offices": [
+    "13A, avenue Lufungulo, Ngaliema, Kinshasa, Democratic Republic of the Congo",
+    "Makeni 55, Kafue Road, Lusaka, Zambia"
+  ],
+  "services": [
+    [
+      "energy-advisory",
+      "Energy Advisory",
+      "Analyse des marchés de l'électricité, prévisions énergétiques, études économiques et financières, faisabilité, investissement et stratégie."
+    ],
+    [
+      "power-systems",
+      "Power Systems and Infrastructure",
+      "Generation, transmission, distribution, planning des systèmes électriques, modernisation des réseaux et études techniques."
+    ],
+    [
+      "energy-projects",
+      "Energy Projects",
+      "Solaire, hydroélectricité, éolien, biomasse, thermique, développement de projets et appui à l'ingénierie."
+    ],
+    [
+      "power-procurement",
+      "Power Procurement",
+      "Stratégie d'approvisionnement, conseil PPA, analyse contractuelle et appui aux négociations."
+    ],
+    [
+      "energy-efficiency",
+      "Energy Efficiency and Optimization",
+      "Audits énergétiques, analyse des consommations, optimisation des coûts et gestion de l'énergie."
+    ],
+    [
+      "energy-transition",
+      "Energy Transition and Sustainability",
+      "Transition énergétique, décarbonation industrielle, marchés carbone, intégration renouvelable et stockage."
+    ],
+    [
+      "regulation-policy",
+      "Regulation and Policy",
+      "Régulation sectorielle, veille réglementaire, analyse des politiques publiques et conformité."
+    ],
+    [
+      "data-intelligence",
+      "Data and Energy Intelligence",
+      "Analyse de données, prévisions de demande, intelligence de marché, tableaux de bord et analytics."
+    ]
+  ],
+  "industries": [
+    "Utilities",
+    "Government",
+    "Mining",
+    "Industrial and commercial companies",
+    "Energy developers and power producers",
+    "Investors and financial institutions",
+    "Infrastructure companies",
+    "Development partners",
+    "Large electricity consumers"
+  ]
+}

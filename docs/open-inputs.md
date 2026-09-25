@@ -1,0 +1,22 @@
+# Open company inputs / legal review
+
+- Official telephone number.
+- Official general email.
+- Website domain.
+- Company registration and tax information where required.
+- Privacy contact and legal representative.
+- Verified social-media accounts.
+- Confirm French as the default language.
+- Approved expert job titles, specializations, French biographies and publication consent.
+- Confirm whether the four supplied expert biographies are approved for publication.
+- Photograph ownership/licence and written consent register for the three supplied portraits.
+- Verified project portfolio and client permissions, if any.
+- Approved Actuality/news items, if any.
+- Approved Insights/reports, if any.
+- Approved job openings, recruitment process and equal-opportunity statement.
+- Recruitment application retention period after legal review.
+- Newsletter frequency and final topic preferences.
+- Newsletter sender identity/address and email service provider.
+- Privacy, cookie, terms, legal notice, accessibility and recruitment privacy text reviewed by qualified counsel.
+- Final website domain and deployment environment.
+- Any additional third-party services and their privacy/legal review.

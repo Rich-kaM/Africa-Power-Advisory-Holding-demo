@@ -1,0 +1,10 @@
+{
+  "followLabel": {"en":"Follow us", "fr":"Suivez-nous"},
+  "accounts": [
+    {
+      "platform": "LinkedIn",
+      "label": "Follow us on LinkedIn",
+      "url": "https://www.linkedin.com/in/richard-mbasha-mukulu-315b7916b/"
+    }
+  ]
+}
